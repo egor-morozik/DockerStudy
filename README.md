@@ -13,7 +13,7 @@
 6.Working with volumes
 
 7. Creation of micro service projects
-8. 
-9. Introduction to Docker Compose
-10. 
+
+8. Introduction to Docker Compose
+   
 9.Django project with PostgreSQL and Nginx
